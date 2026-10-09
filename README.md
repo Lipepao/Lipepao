@@ -22,8 +22,10 @@ Utilizo o GitHub para compartilhar meus projetos, praticar o que aprendo e acomp
   <img src="https://camo.githubusercontent.com/df22f0f6e92a3c220bef13f20ead5619cb1e4162fa275feb64eb43d60b9fb0ff/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" height="40" alt="javascript logo"  />
   <img width="12" />
   <img width="12" />  
-  <img src="https://www.realclipart.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" height="40" alt="java logo"  />
+  <img src="https://www.realclipart.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png" height="40" alt="C logo"  />
   <img width="12" />
   <img 
-
+  <img src="https://camo.githubusercontent.com/eb004cb648d3c21c3855a309f35b18f7e383133592d9a501c2d9ed82a9182b62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  
 ###
