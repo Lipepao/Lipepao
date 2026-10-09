@@ -11,7 +11,7 @@ Utilizo o GitHub para compartilhar meus projetos, praticar o que aprendo e acomp
 <h2 data-importer="text" align="left">My stack </h2>
 
 ###
-![gon](gon-horizontal.jpg)
+![gon](https://i.pinimg.com/736x/f4/90/0a/f4900ace903992f5d6f4a4c243828c50.jpg)
 
 <div data-importer="techs" align="left">
   <img src="https://camo.githubusercontent.com/8667471e598c22f3c6be84943e9789d9fdc7f34697c633e232c831b8301d337c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="40" alt="java logo"  />
