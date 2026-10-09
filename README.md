@@ -2,7 +2,9 @@
 
 ###
 
-<p data-importer="text" align="left">Estudante de engenharia de software</p>
+<p data-importer="text" align="left">Sou estudante de Engenharia de Software e estou desenvolvendo minhas habilidades em programação e desenvolvimento de sistemas. Tenho interesse principalmente em Back-end, lógica de programação e criação de aplicações.
+
+Utilizo o GitHub para compartilhar meus projetos, praticar o que aprendo e acompanhar minha evolução como desenvolvedor.</p>
 
 ###
 
