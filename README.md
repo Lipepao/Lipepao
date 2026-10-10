@@ -11,4 +11,4 @@ Here, I share some of my personal projects. I'm a Software Engineering student, 
 <h2 data-importer="text" align="left"></h2>
 
 ###
-![ItachiandSasuke](gon.jpg)
+![Gon/Leorio](gon.jpg)
